@@ -4,6 +4,6 @@ public class App {
     }
 
     public static void main(String[] args) {
-        System.out.println("7 + 119 = " + add(7, 119));
+        System.out.println("7 + 19 = " + add(7, 19));
     }
 }

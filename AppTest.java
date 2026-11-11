@@ -1,6 +1,6 @@
 public class AppTest {
     public static void main(String[] args) {
-        int result = App.add(12, 3);
+        int result = App.add(12, 13);
         if (result != 5) {
             System.out.println("TEST FAILED: expected 5 but got " + result);
             System.exit(1);
